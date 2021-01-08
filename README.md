@@ -1,5 +1,5 @@
-# ayeaye
-ini merupakan website game
+# Tournament Game
+ini merupakan website tournament game untuk tournament online
 <div align="center">
-    <img src="/assets/Game.png" width="1000px"</img>
+    <img src="/assets/Game.png" width="600px"</img>
 </div>
