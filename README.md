@@ -1,5 +1,5 @@
 # ayeaye
 ini merupakan website game
 <div align="center">
-    <img src="/assets/Game.png" width="400px"</img>
+    <img src="/assets/Game.png" width="100px"</img>
 </div>
